@@ -1,4 +1,4 @@
-Danilo Gonçalves de Menezes
+﻿Danilo Gonçalves de Menezes
 ===================
 
 --------------------------------
@@ -6,7 +6,7 @@ São Paulo - SP
 
 Rua dos Jeribás, 124, apto 21B
 
-Telefones : 982858675 | 58270233
+Nascimento : 15/03/1999
  
 Email: twiixplays@gmail.com
 
